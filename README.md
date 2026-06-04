@@ -93,6 +93,27 @@ When you click "SAVE REPORT":
 - Sensor range: ±10 pixel radius
 - Rotation: Continuous from policy output
 
+  ## 📸 Screenshots
+
+### Entire Workflow
+<img width="1402" height="1122" alt="Entire Workflow" src="https://github.com/user-attachments/assets/706ff25f-5acd-4f9b-bb7a-d39badb3f17b" />
+
+
+
+
+
+
+### Car Navigating & Obstacle Drawn in virtual environment
+<img width="809" height="635" alt="Car Navigation and virtual environment" src="https://github.com/user-attachments/assets/6e963ffd-0184-4a5f-84fa-6e9bc95b04d7" />
+
+
+
+
+### Training Report
+<img width="1104" height="798" alt="Training report" src="https://github.com/user-attachments/assets/be47c166-a36d-4cc3-a434-a5dc536ce098" />
+
+
+
 ## 🎯 Potential Improvements
 
 - [ ] Add Value/Critic networks for Q-learning
